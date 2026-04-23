@@ -1,4 +1,6 @@
-*.png # ignore all png files...
-!final.png # but not final.png
-pictures/
+# don't track any .png file except for final.png
+*.png
+!final.png
 
+# don't track anything inside pictures folder
+pictures/
