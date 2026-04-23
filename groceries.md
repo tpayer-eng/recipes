@@ -1,6 +1,4 @@
-# food products and their prices on different markets
-## markets: lidl, migi, coop
-*avocado: 7, 8, 10
-*lime: 2, 4, 3
-*salt: 1, 1, 1
-
+# Market A
+* avocado: 1.35 per unit
+* lime: 0.64 per unit
+* salt: 2 per kg
