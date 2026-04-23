@@ -1,2 +1,4 @@
-*.png
+*.png # ignore all png files...
+!final.png # but not final.png
 pictures/
+
